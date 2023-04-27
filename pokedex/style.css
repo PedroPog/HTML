@@ -1,0 +1,14 @@
+.pokemon{
+  border:solid;
+  width: 250px;
+}
+.imagem img{
+  width: 50%;
+}
+.imagem{
+  border: solid;
+}
+.nome{
+  border: solid;
+  width: 50%;
+}

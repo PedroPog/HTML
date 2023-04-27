@@ -1,0 +1,18 @@
+.tela {
+    width: 720px;
+    height: 418px;
+    background: #6096B4;
+    margin: 0 auto;
+    box-shadow: 1px -2px 25px#6096B4;
+    border-radius: 50px;
+    border: solid;
+    border-color: #93bfcf70;
+}
+body{
+    height: 100%;
+    width: 100%;
+    background: #EEE9DA;
+}
+.tela img{
+    width: 200px;
+}

@@ -1,0 +1,25 @@
+nav{
+    width: 1280px;
+    height: 90px;
+    padding: 5px;
+    display: inline-flex;
+    justify-content: space-around;
+    background: red;
+}
+.indice{
+margin-left: 0;
+}
+.b1{
+    color: white;
+    background: linear-gradient(45deg,#eaab54, #ea5474);
+    width: 152px;
+    height: 30px;
+    border-radius: 15px;
+    border: none;
+}
+
+div.menu, ul {
+    list-style: none;
+    display: inline-flex;
+    list-style: none;
+}

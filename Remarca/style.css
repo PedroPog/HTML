@@ -1,0 +1,42 @@
+header{
+	width: 101%;
+    margin: -8px 0px 0px -5px;
+    height: 25%;
+	background: linear-gradient(0deg,#1c19ff,#4946ff);
+	box-shadow: 0px 0px 23px #7675ff;
+}
+
+body{
+	background: linear-gradient(0deg,#ff1c19,#ff322f,#ff4946,darkred);
+}
+img{
+	width: 470px;
+}
+
+
+.TelaDeLogin{
+	background:linear-gradient(#1c19ff,#5754eb,#6664ed);
+    height: 40%;
+    width: 30%;
+    padding: 30px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10%;
+	border-top-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+	
+}
+.inputBox{
+	background:#605eff;
+	border-radius:35px;
+	border: none;
+}
+.inputBox, input{
+	  width: 100%;
+	  border: 0;
+	  outline: 0;
+	  font-size: 1.3rem;
+	  padding: 7px 0;
+	  background: transparent;
+	  transition: border-color 0.2s;
+}

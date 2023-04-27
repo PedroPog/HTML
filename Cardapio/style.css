@@ -1,0 +1,69 @@
+Body{
+	background: #c7c7c7;
+    margin: 10px 250px;
+	box-shadow: 5px 5px #0000006b;
+}
+.cont{
+    background-image: url(Fundo.png);
+    width: auto;
+    height: auto;
+	background-size: 140%;
+    padding: 1px;
+}
+h1{
+	text-align: center;
+    font-family:cursive;
+    font-size: 300%;
+    cursor: default;
+}
+.Produto{
+    width: 80%;
+    display: inline-flex;
+    margin-left: 10%;
+	border-bottom-left-radius:20%;
+	border-top-left-radius:20%;
+    margin-bottom: 2%;
+
+    background: rgba(255, 255, 255, 0.4);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5.3px);
+    -webkit-backdrop-filter: blur(5.3px);
+}
+.Produto img{
+	width:30%;
+	border-radius: 20%;
+}
+a{
+	text-decoration:none;
+	color: black;
+}
+a:hover{
+    text-decoration: underline;
+    color: blue;
+    cursor: default;
+}
+li{
+	list-style-type: none;
+    cursor: default;
+    font-size: 25px;
+    font-family:cursive;
+    text-shadow: 1px 1px rgb(248, 197, 197);
+}
+.Produto img:hover{
+    width: 31%;
+
+}
+.footer{
+    width: 100%;
+    height: 31%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.footer img{
+    width: 70px;
+}
+.footer img:hover{
+    width: 80px;
+}
+
